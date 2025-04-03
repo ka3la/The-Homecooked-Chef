@@ -1,0 +1,213 @@
+.topnav{
+    background-color: #600327;
+    overflow: hidden;
+    padding: 40px 50px;
+    text-align: center;
+    width: auto;
+}
+
+.topnav a{
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 25px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+body {
+background-color: #cad2c5;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(2, 70, 2);
+margin-left: 40px;
+margin-right: 40px;
+}
+
+h1 {
+font-size: 70px;
+font-weight:bold;
+color: #600327;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+
+h2 {
+margin-top:50px;
+font-weight: bold;
+}
+
+img {
+display: block;
+margin: auto;
+margin-bottom: 50px;
+}
+
+.navbar {
+    background-color: #600327;
+    overflow: hidden;
+    padding: 40px 50px;
+    text-align: center;
+    bottom: 0;
+    width: auto;
+}
+
+    .navbar a {
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 5px 25px;
+    font-size: 17 px;
+    text-decoration: none;
+    }
+
+.index-header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 12px;
+}
+
+
+/*HOME PAGE*/
+.container-enter {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+/*ABOUT PAGE*/
+/*QUOTE*/
+.quote {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*BITES Container holding the image and the text*/
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/*Centered text*/
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.fade-image {
+    opacity: 0.5; /*Iniitally hidden*/
+    transition: opactiy 0.5s; /*Smooth transition*/
+}
+
+.fade-image:hover {
+    opacity: 1; /*Fully visible on hover*/
+}
+
+/*SWEETS Container holding the image and the text*/
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/*Centered text*/
+.centered1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.fade-image1 {
+    opacity: 0.5; /*Iniitally hidden*/
+    transition: opactiy 0.5s; /*Smooth transition*/
+}
+
+.fade-image1:hover {
+    opacity: 1; /*Fully visible on hover*/
+}
+
+/*SIPS Container holding the image and the text*/
+.container2 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/*Centered text*/
+.centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.fade-image2 {
+    opacity: 0.5; /*Iniitally hidden*/
+    transition: opactiy 0.5s; /*Smooth transition*/
+}
+
+.fade-image2:hover {
+    opacity: 1; /*Fully visible on hover*/
+}
+
+/*CONTACT Container holding the image and the text*/
+.container3 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/*Centered text*/
+.centered3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+}
+
+.fade-image3 {
+    opacity: 0.5; /*Iniitally hidden*/
+    transition: opactiy 0.5s; /*Smooth transition*/
+}
+
+.fade-image3:hover {
+    opacity: 1; /*Fully visible on hover*/
+}
+
+/*BITES PAGE*/
+.caption {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 17px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.quote1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 70px;
+}
+
+.information {
+    border: 5px solid #600327;
+    border-style: double;
+    border-radius: 5px;
+    padding: 20px;
+}
